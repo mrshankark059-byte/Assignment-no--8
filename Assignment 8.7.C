@@ -1,3 +1,7 @@
+(Q.):- Write a program to print the first N even natural numbers in reverse order
+
+
+
 #include <stdio.h>
 int main()
 { 
