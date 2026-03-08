@@ -1,0 +1,1 @@
+Q. 10. Write a program to print a table of N.
